@@ -1,5 +1,5 @@
-//Name: Srihari Nair
-//Prn: 23070123131
+//Name: Saniya Chatterjee
+//Prn: 23070123113
 //Class: EnTC B-2
 #include<iostream>
 #include<string>
