@@ -88,6 +88,7 @@ O/P:
 
 ![Screenshot 2024-09-12 232950](https://github.com/user-attachments/assets/8ebcae31-a06c-4238-a6e3-f88adad88d3c)
 
+
 3. Multiple Inheritance
 ```
 #include <iostream>
@@ -124,10 +125,7 @@ int main() {
 
 O/P:
 
-
 ![Screenshot 2024-09-12 233016](https://github.com/user-attachments/assets/b36bda4d-97c9-44ac-a08e-8bea8c6c8f73)
-
-
 
 4. Hierarchical Inheritance
 ```
