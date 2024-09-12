@@ -47,8 +47,7 @@ int main(){
 ```
 O/P:
 
-![image](https://github.com/user-attachments/assets/1012522d-67de-47ac-92ff-1ae47f9b49fc)
-
+![Screenshot 2024-09-12 232915](https://github.com/user-attachments/assets/1ae8f528-55c7-46e9-a21d-eedc5c5bfab8)
 
 2. Multilevel Inheritance
 ```
@@ -87,7 +86,7 @@ int main() {
 
 O/P:
 
-![image](https://github.com/user-attachments/assets/b74d7f00-7d5d-4f02-9a7f-9ff4c6e96a2c)
+![Screenshot 2024-09-12 232950](https://github.com/user-attachments/assets/8ebcae31-a06c-4238-a6e3-f88adad88d3c)
 
 3. Multiple Inheritance
 ```
@@ -125,7 +124,10 @@ int main() {
 
 O/P:
 
-![image](https://github.com/user-attachments/assets/310c5787-bd7d-4ac8-bdd2-bf4247b44f32)
+
+![Screenshot 2024-09-12 233016](https://github.com/user-attachments/assets/b36bda4d-97c9-44ac-a08e-8bea8c6c8f73)
+
+
 
 4. Hierarchical Inheritance
 ```
@@ -170,9 +172,8 @@ int main() {
 
 O/P:
 
-![image](https://github.com/user-attachments/assets/ac506065-b9d9-4374-950e-e4dc93323cd5)
+![Screenshot 2024-09-12 233049](https://github.com/user-attachments/assets/0b06a4c2-1c58-477f-87f5-cdf91c3f26bd)
 
- 
 # Conclusion
 The code snippets illustrate key object-oriented programming (OOP) concepts in C++, including inheritance (single, multilevel, multiple) and method overriding.
 
